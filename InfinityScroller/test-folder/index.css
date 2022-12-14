@@ -1,0 +1,14 @@
+img{
+    margin:5px;
+    width:200px;
+    height:200px;
+}
+.Container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Infinity-Scroller{
+    width:100%;
+    height:39rem;
+    background-color:#D8D9CF;
+}
